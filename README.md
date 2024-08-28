@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angga?
-- 👀 I’m interested in:someone with the initials A
+- 👀 I’m interested in:someone 
 - 🌱 I’m currently learning:Html
 - 💞️ I want to collaborate:on the mpl indonesia and msc stages
 - 📫 How to reach me:6282320347063
