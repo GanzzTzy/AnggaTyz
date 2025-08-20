@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Angga?
-- 👀 I’m interested in:someone 
-- 🌱 I’m currently learning:Html
-- 💞️ I want to collaborate:on the mpl indonesia and msc stages
-- 📫 How to reach me:6282320347063
-- 😄 hobby: playing games 
-- ⚡ Fun fact: I'm learning HTML, WhatsApp bugs and WhatsApp AI
+
 
 <!---
 AnggaTyz/AnggaTyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
