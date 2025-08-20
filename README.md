@@ -1,10 +1,10 @@
-# 🚀 Selamat Datang di Dunia Kodingku
+# 🚀 Selamat Datang di Githubku
 
 <img src="https://i.ibb.co/zF1m1Jp/futuristic-dev.gif" width="100%" />
 
 ## 🌌 Tentang Gue
 👨‍💻 Full-stack Developer wannabe  
-⚡ Suka ngulik teknologi masa depan  
+⚡ Suka ngulik teknologi masa depan
 🌍 Berambisi bikin solusi digital yang impactful  
 
 ---
